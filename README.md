@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <p align="center">
-<img src = "https://github.com/AghoraGuru/CrypticCortex/blob/main/github-header-image.png" >
+<img src = "https://github.com/CrypticCortex/CrypticCortex/blob/main/github-header-image.png" >
 </p>
 
 *This repo belongs to an undergrad doing B.Tech in CSE specializing in AI , a self taught programmer(lot's of Gooooogling) who currently working his skills and learning new things.
