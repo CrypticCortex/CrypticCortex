@@ -4,6 +4,9 @@
 </p>
 
 *This repo belongs to an undergrad doing B.Tech in CSE specializing in AI , a self taught programmer(lot's of Gooooogling) who currently working his skills and learning new things.*
+<p align="center">
+    🥹 Old Account : <a href="https://github.com/AghoraGuru?tab=repositories">AghoraGuru</a>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/CrypticCortex"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
